@@ -1,0 +1,7 @@
+.env
+
+app-v0.py
+app-v1.py
+app-v2.py
+
+faiss_index_store
