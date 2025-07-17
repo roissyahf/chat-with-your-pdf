@@ -19,7 +19,7 @@ It features vector storage with FAISS, and history-aware memory, making the expe
 
 ## 🧑‍💻 How to Use
 
-1. 👉 Go to the app: **[Click here to open the app](https://chat-with-your-pdf.streamlit.app/)**
+1. 👉 Go to the app: **[Click here to open the app](https://easy-chat-with-your-pdf.streamlit.app/)**
 2. 📄 Upload your PDF file
 3. ✅ Wait for the document to be processed, util the text box to ask questions is displayed
 4. ❓ Ask question about your PDF, and wait the answer
